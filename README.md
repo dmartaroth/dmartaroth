@@ -1,10 +1,6 @@
 ### 🔬💀🧪 Hello! I'm Daniela 🧪💀🔬
 
 
-I've recently entered the world of bioinformatic analysis to learn more about craniofacial development, dabbling in single cell sequencing and spatial transcriptomics.
-Mostly, though, I still stare at cells and bone under a microscope. 
-
-You can reach me at dmroth@ualberta.ca 📫
 
 <!--
 **dmartaroth/dmartaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
